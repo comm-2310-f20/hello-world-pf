@@ -2,4 +2,4 @@
 this is just another repo
 
 
-wow, we're are learning github
+wow, we're learning github
